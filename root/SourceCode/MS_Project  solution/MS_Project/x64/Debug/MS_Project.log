@@ -1,0 +1,6 @@
+﻿  main.c
+  mapping.c
+D:\JUBINSENECASTUFF\SEMESTER 2\SFT211\PROJECT NBB\Fall24-sft221-nbb-5\root\SourceCode\MS_Project  solution\MS_Project\mapping.c(427,51): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
+D:\JUBINSENECASTUFF\SEMESTER 2\SFT211\PROJECT NBB\Fall24-sft221-nbb-5\root\SourceCode\MS_Project  solution\MS_Project\mapping.c(428,52): warning C4244: 'initializing': conversion from 'const double' to 'int', possible loss of data
+  Generating Code...
+  MS_Project.vcxproj -> D:\JUBINSENECASTUFF\SEMESTER 2\SFT211\PROJECT NBB\Fall24-sft221-nbb-5\root\SourceCode\MS_Project  solution\x64\Debug\MS_Project.exe
